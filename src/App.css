@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+span {
+  pointer-events: none;
+}
+
+.hidden {
+  display: none;
+}
